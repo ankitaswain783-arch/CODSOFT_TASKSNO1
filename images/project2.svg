@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#f0efff"/>
+  <rect x="75" y="65" width="750" height="390" rx="28" fill="#ffffff"/>
+  <path d="M75 340 Q220 220 365 315 T650 275 T825 310 V455 H75Z" fill="#d9d5ff"/>
+  <circle cx="640" cy="150" r="58" fill="#6c63ff"/>
+  <path d="M190 340 L300 170 L410 340 Z" fill="#b7b1ff"/>
+  <path d="M330 340 L455 135 L580 340 Z" fill="#8d85ee"/>
+  <path d="M530 340 L640 195 L750 340 Z" fill="#b7b1ff"/>
+  <text x="105" y="115" font-family="Arial" font-size="28" font-weight="700" fill="#29283a">Travel Website</text>
+  <text x="105" y="150" font-family="Arial" font-size="17" fill="#666672">Responsive booking experience</text>
+</svg>

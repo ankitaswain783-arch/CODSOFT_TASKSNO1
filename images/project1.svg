@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520">
+  <rect width="900" height="520" fill="#eeecff"/>
+  <rect x="90" y="75" width="720" height="370" rx="28" fill="#ffffff"/>
+  <rect x="90" y="75" width="720" height="58" rx="28" fill="#6c63ff"/>
+  <circle cx="125" cy="104" r="8" fill="#ffffff"/>
+  <circle cx="150" cy="104" r="8" fill="#ffffff"/>
+  <circle cx="175" cy="104" r="8" fill="#ffffff"/>
+  <rect x="135" y="170" width="200" height="210" rx="16" fill="#f7f6ff"/>
+  <rect x="365" y="170" width="200" height="210" rx="16" fill="#f7f6ff"/>
+  <rect x="595" y="170" width="165" height="210" rx="16" fill="#f7f6ff"/>
+  <circle cx="235" cy="235" r="45" fill="#d9d5ff"/>
+  <path d="M205 255h60M213 237h44" stroke="#6c63ff" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="465" cy="235" r="45" fill="#d9d5ff"/>
+  <path d="M440 235h50M465 210v50" stroke="#6c63ff" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="675" cy="235" r="45" fill="#d9d5ff"/>
+  <path d="M650 240l18 18 35-43" fill="none" stroke="#6c63ff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="135" y="410" font-family="Arial" font-size="25" font-weight="700" fill="#29283a">ReCampus</text>
+</svg>
